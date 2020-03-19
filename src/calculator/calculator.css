@@ -1,0 +1,26 @@
+.background {
+    -fx-background-color: #454545;
+}
+
+.button {
+    -fx-text-fill: #ffffff;
+    -fx-border-radius: 0px;
+    -fx-border-color: #454545;
+}
+
+.gray-button {
+    -fx-background-color: #666666;
+}
+
+.gray-button:hover {
+    -fx-background-color: #555555;
+}
+
+
+.orange-button {
+    -fx-background-color: #ff9900;
+}
+
+.orange-button:hover {
+    -fx-background-color: #dd7700;
+}
